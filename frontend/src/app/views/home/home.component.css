@@ -1,0 +1,32 @@
+.home .title {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.home .subtitle {
+  font-size: 1.1rem;
+}
+
+.home .subtitle strong{
+  color: rgb(160, 18, 24);
+}
+
+.home .subtitle strong i{
+  color: rgb(176, 149, 1);
+}
+
+.home .imgVertical{
+  margin: 1%;
+  width: 23%;
+}
+
+.home .imgHorizontal {
+  margin: 1%;
+  width: 48%;
+}
+
+.home .imgTotal {
+  margin: 1%;
+  width: 98%;
+}

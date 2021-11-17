@@ -1,0 +1,32 @@
+{
+  "produto": [
+    {
+      "nome": "Creme força vitamina",
+      "numero": "69,80",
+      "validade": "11/31",
+      "codigo": "ESQUENTABF",
+      "id": 1
+    },
+    {
+      "nome": "Amend",
+      "numero": "29,90",
+      "validade": "04/25",
+      "codigo": "ESQUENTABF",
+      "id": 3
+    },
+    {
+      "nome": "Alfaparf",
+      "numero": "24,99",
+      "validade": "11/22",
+      "codigo": "ESQUENTABF",
+      "id": 4
+    },
+    {
+      "nome": "LoLA Cosmetics",
+      "numero": "19,99",
+      "validade": "11/21",
+      "codigo": "ESQUENTABF",
+      "id": 5
+    }
+  ]
+}
